@@ -1,0 +1,2 @@
+pipenv==2018.11.26
+virtualenv==16.7.5
